@@ -98,6 +98,8 @@ client.on("message", async (msg) => {
           );
         }
       });
+  } else if (msg.body === "ping" && !pesan.isGroup) {
+    msg.reply("pong");
   }
 });
 
