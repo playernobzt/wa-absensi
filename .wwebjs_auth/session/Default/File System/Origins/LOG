@@ -1,3 +1,2 @@
-2023/09/10-23:54:36.437 41b2d Reusing MANIFEST /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/File System/Origins/MANIFEST-000001
-2023/09/10-23:54:36.438 41b2d Recovering log #3
-2023/09/10-23:54:36.438 41b2d Reusing old log /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/File System/Origins/000003.log 
+2023/09/11-00:02:58.483 42d57 Creating DB /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/File System/Origins since it was missing.
+2023/09/11-00:02:58.493 42d57 Reusing MANIFEST /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/File System/Origins/MANIFEST-000001

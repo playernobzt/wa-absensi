@@ -1,3 +1,2 @@
-2023/09/10-23:54:36.016 41b0b Reusing MANIFEST /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2023/09/10-23:54:36.018 41b0b Recovering log #3
-2023/09/10-23:54:36.019 41b0b Reusing old log /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2023/09/11-00:02:55.838 42d32 Creating DB /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/Local Storage/leveldb since it was missing.
+2023/09/11-00:02:55.850 42d32 Reusing MANIFEST /home/turisbelanda/Project/wa-absensi/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001

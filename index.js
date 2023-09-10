@@ -165,7 +165,7 @@ io.on("connection", function (socket) {
 
     const result = convert(waktupesan * 1000);
     if (msg.body === "ping" && !pesan.isGroup) {
-      msg.reply("pong");
+      // msg.reply("pong");
       socket.emit(
         "message",
         `[ ${result.tanggal} Pukul ${result.jam}:${result.menit} ] => " ${namaPengirim} Baru saja melakukan test !ping "  `
